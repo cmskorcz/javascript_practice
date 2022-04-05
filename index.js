@@ -23,3 +23,17 @@
 // Function Call:
 
 // displayList();
+
+// Function Declarations and Expressions
+
+// function myDeclaration() {
+//     alert('This is coming from a function declaration');
+// };
+
+// myDeclaration();
+
+// const myExpression = function() {
+//     alert('This is coming from a function expression');
+// };
+
+// myExpression();
