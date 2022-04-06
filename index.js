@@ -37,3 +37,20 @@
 // };
 
 // myExpression();
+
+// Logical Operators
+
+// const exp1 = true;
+// const exp2 = false;
+
+// const matchIt = function() {
+//     if(exp1 && exp2) {
+//         alert('Both expressions are true');
+//     };
+//     if(exp1 || exp2) {
+//         alert('One of the expressions is true');
+//     };
+//     if(exp1 && !exp2) {
+//         alert('Both expressions are true');
+//     };
+// };
